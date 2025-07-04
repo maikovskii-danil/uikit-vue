@@ -1,6 +1,6 @@
 {
   "name": "@maikovskii-danil/uikit-vue",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "prettier": "@maikovskii-danil/prettier-config-vue",
   "type": "module",
   "license": "MIT",
