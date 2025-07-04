@@ -1,6 +1,6 @@
 {
   "name": "@maikovskii-danil/uikit-vue",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "prettier": "@maikovskii-danil/prettier-config-vue",
   "type": "module",
   "license": "MIT",
@@ -10,7 +10,8 @@
   "exports": {
     ".": {
       "import": "./dist/uikit-vue.es.js",
-      "types": "./dist/types/index.d.ts"
+      "types": "./dist/types/index.d.ts",
+      "./dist/uikit-vue.css": "./dist/uikit-vue.css"
     }
   },
   "homepage": "https://github.com/maikovskii-danil/uikit-vue#readme",
